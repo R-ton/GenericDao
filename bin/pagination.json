@@ -1,0 +1,8 @@
+{
+	"oracle" :{
+		"limit": 5
+	}
+	"postgresql" :{
+		"limit": 5
+	}
+}
